@@ -1,14 +1,12 @@
 [
-  {
-    ticker: 'BTC',
-    max_supply: 21000000,
-    total_supply: 21000000,
-    circulating_supply: 19788775
+  "BTC": {
+    "max_supply": 21000000,
+    "total_supply": 21000000,
+    "circulating_supply": 19788775
   },
-  {
-    ticker: 'APU',
-    max_supply: 420690000000,
-    total_supply: 337892257217.12,
-    circulating_supply: 320385865167.20
+  "APU": {
+    "max_supply": 420690000000,
+    "total_supply": 337892257217.12,
+    "circulating_supply": 320385865167.20
   }
 ]
